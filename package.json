@@ -3,9 +3,18 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.14.0",
+    "history": "^4.9.0",
+    "material-icons-react": "^1.0.4",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-media": "^1.9.2",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "react-swipeable-routes": "^0.6.0",
+    "react-test-renderer": "^16.8.6"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "sw-precache-webpack-plugin": "^0.11.5",
+    "webpack-pwa-manifest": "^4.0.0"
   }
 }
