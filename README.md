@@ -3,7 +3,7 @@
 ## Running server:
 
 ```
-git clone https://github.com/a9kitkumar/cosmicjs-pwa
+https://github.com/archanashirwant/News.git
 cd cosmicjs-pwa
 npm install
 npm run build
