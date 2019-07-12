@@ -4,7 +4,7 @@
 
 ```
 https://github.com/archanashirwant/News.git
-cd cosmicjs-pwa
+cd pwa-news
 npm install
 npm run build
 npm install -g serve
