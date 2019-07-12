@@ -1,3 +1,17 @@
+# Get Started
+
+## Running server:
+
+```
+git clone https://github.com/a9kitkumar/cosmicjs-pwa
+cd cosmicjs-pwa
+npm install
+npm run build
+npm install -g serve
+serve -s build
+```
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
